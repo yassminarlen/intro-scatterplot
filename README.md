@@ -7,4 +7,4 @@
 3. Variables could be positively or negatively associated with each other. 
 4. Positively associated variables increase synchronously. 
 5. Negatively associated variables, when one variable increases the other decreases.
-derived from summer data workshops
+(derived from summer data workshops)
