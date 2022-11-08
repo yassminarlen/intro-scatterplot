@@ -1,4 +1,3 @@
-# intro-scatterplot
 # Defining Scatterplot
 **Scatter Plots are graphs that describe the relationship between two numerical variables.** 
 1. The scatterplot has two axes and is meant to show the correlation between variables.
